@@ -1,3 +1,8 @@
+import CoreLogin from "./components/CoreLogin";
+
+export default function App() {
+  return <CoreLogin />;
+}
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
